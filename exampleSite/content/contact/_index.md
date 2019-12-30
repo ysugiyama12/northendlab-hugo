@@ -1,9 +1,8 @@
 ---
-title: "Contact Us"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-description : "this is meta description"
-image: "images/contact.svg"
----
+title: Contact Us
+date: 2019-07-06T09:27:17.000+00:00
+description: this is meta description
+image: images/contact.svg
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+---
+If you have any suggestions or requests, please let me know via this contact form.
