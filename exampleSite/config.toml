@@ -6,9 +6,6 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "ysugiyama - Portfolio"
 [[menu.footer]]
-name = "Links"
-weight = 3
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 2
