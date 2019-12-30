@@ -1,10 +1,10 @@
 baseURL = "https://ysugiyama.netlify.com/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "ja-jp"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Northendlab | Blog Template"
+title = "ysugiyama - Portfolio"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
