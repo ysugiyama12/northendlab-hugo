@@ -65,7 +65,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/yuji.sugiyama.773"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
