@@ -37,7 +37,7 @@ image = "images/character_program_smart.png"
 title = "Do you know ushitapunikia-kun? Yes, I know."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
@@ -62,7 +62,7 @@ URL = "plugins/search/search.js"
 enable = true
 preloader = ""
 [params.search]
-enable = true
+enable = false
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/yuji.sugiyama.773"
