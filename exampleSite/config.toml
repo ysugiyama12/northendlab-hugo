@@ -5,6 +5,14 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "ysugiyama - Portfolio"
+[[menu.footer]]
+URL = "tools"
+name = "Skill / Products"
+weight = "2"
+[[menu.main]]
+URL = "tools"
+name = "Skills / Products "
+weight = "2"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
