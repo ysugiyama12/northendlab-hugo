@@ -8,11 +8,11 @@ title = "ysugiyama - Portfolio"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 1
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
