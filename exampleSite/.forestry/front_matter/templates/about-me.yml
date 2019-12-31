@@ -17,3 +17,5 @@ fields:
 - name: new_label
   type: boolean
   label: new label
+pages:
+- exampleSite/about-me/*/this-is-my-new-article.md
