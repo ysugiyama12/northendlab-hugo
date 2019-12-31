@@ -56,9 +56,6 @@ preloader = ""
 [params.search]
 enable = false
 [[params.social]]
-icon = "ti-facebook"
-link = "https://www.facebook.com/yuji.sugiyama.773"
-[[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/yuji9511_compro"
 [[params.social]]
