@@ -18,5 +18,4 @@ fields:
   type: boolean
   label: new label
 pages:
-- exampleSite/about-me/*/this-is-my-new-article-1.md
-- exampleSite/about-me/*/this-is-my-new-article.md
+- exampleSite/content/about-me/this-is-my-new-article.md
