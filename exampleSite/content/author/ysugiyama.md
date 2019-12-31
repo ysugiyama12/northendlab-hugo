@@ -4,10 +4,10 @@ image = "/images/mel_round.png"
 title = "ysugiyama"
 [menu.footer]
 name = "About Me"
-weight = 1
+weight = 2
 [menu.main]
 name = "About Me"
-weight = 1
+weight = 3
 
 +++
 The administrator of this site.
