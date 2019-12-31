@@ -12,10 +12,6 @@ weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 2
-[[menu.main]]
-URL = ""
-name = ""
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -29,7 +25,7 @@ home = "Home"
 logo = "images/mylogo2.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/character_program_smart.png"
+image = "images/software-engineer.png"
 title = "Do you know ushitapunikia-kun? <br>Yes, I know."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
