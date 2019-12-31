@@ -54,7 +54,7 @@ URL = "plugins/search/search.js"
 enable = true
 preloader = ""
 [params.search]
-enable = false
+enable = true
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/yuji9511_compro"
