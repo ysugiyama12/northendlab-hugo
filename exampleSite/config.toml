@@ -6,13 +6,13 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "ysugiyama - Portfolio"
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
+URL = "tools"
+name = "Skill / Products"
+weight = "2"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
+URL = "tools"
+name = "Skills / Products "
+weight = "2"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -55,9 +55,6 @@ enable = true
 preloader = ""
 [params.search]
 enable = false
-[[params.social]]
-icon = "ti-facebook"
-link = "https://www.facebook.com/yuji.sugiyama.773"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/yuji9511_compro"
