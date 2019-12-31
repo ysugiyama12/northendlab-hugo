@@ -8,20 +8,20 @@ title = "ysugiyama - Portfolio"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 contactFormAction = "#"
-copyright = "&copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2019 ysugiyama, [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 description = "This is meta description"
 googleAnalitycsID = "Your ID"
-home = "Home"
+home = ""
 logo = "images/mylogo2.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
