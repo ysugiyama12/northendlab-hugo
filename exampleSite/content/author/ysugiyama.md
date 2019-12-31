@@ -22,6 +22,8 @@ weight = 1
 
 **GitHub:** [ysugiyama12](https://github.com/ysugiyama12)
 
+**Qiita:** [ysugiyama12](https://qiita.com/ysugiyama12)
+
 **AtCoder:** [yuji9511](https://atcoder.jp/users/yuji9511) (blue)
 
 **Codeforces:** [yuji9511](https://codeforces.com/profile/yuji9511) (purple)
