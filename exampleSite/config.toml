@@ -8,10 +8,22 @@ title = "ysugiyama - Portfolio"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
+weight = 1
+[[menu.footer]]
+URL = "tools"
+name = "tools"
 weight = 2
+[[menu.main]]
+URL = ""
+name = ""
+weight = ""
 [[menu.main]]
 URL = "contact"
 name = "Contact"
+weight = 1
+[[menu.main]]
+URL = "tools"
+name = "tools"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -22,7 +34,7 @@ copyright = "&copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights R
 description = "This is meta description"
 googleAnalitycsID = "Your ID"
 home = "Home"
-logo = "images/mylogo.svg"
+logo = "images/mylogo2.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/character_program_smart.png"
