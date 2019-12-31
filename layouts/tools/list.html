@@ -21,6 +21,7 @@
                   <img src="{{ .image | relURL }}" alt="{{ .name | markdownify }}" class="card-img-top">
                   <div class="card-body">
                     <h4 class="h5 mb-4"><a class="text-dark" href="{{ .link | safeURL }}">{{ .name | markdownify }}</a></h4>
+                    <h5 class="h5 mb-4">{{ .description | markdownify }}</h5>
                     <a href="{{ .link | safeURL }}" class="btn btn-primary">Visit Site</a>
                   </div>
                 </div>
