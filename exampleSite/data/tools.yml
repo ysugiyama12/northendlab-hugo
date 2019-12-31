@@ -1,7 +1,5 @@
 ---
 tools:
-- tool:
-  - {}
 - title: Dev Tools
   tool:
   - name: Git

@@ -10,12 +10,18 @@ name = "About Me"
 weight = 1
 
 +++
-The administrator of this site.
+**Name:** Yuji Sugiyama
 
-Name: Yuji Sugiyama
+**Birthday:** 1996/12/02
 
-Twitter: @yuji9511_compro
+**Affiliation:** The University of Tokyo, M1
 
-AtCoder: yuji9511 (blue)
+**Twitter:** [@yuji9511_compro](https://twitter.com/yuji9511_compro)
 
-Codeforces: yuji9511 (purple)
+**Hatena Blog:** [とある理系の備忘録](http://ysugiyama.hatenablog.com/)
+
+**GitHub:** [ysugiyama12](https://github.com/ysugiyama12)
+
+**AtCoder:** [yuji9511](https://atcoder.jp/users/yuji9511) (blue)
+
+**Codeforces:** [yuji9511](https://codeforces.com/profile/yuji9511) (purple)
